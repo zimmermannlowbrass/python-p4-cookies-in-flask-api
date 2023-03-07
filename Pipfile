@@ -4,6 +4,8 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+importlib-metadata = "6.0.0"
+importlib-resources = "5.10.0"
 flask = "2.2.2"
 
 [dev-packages]
